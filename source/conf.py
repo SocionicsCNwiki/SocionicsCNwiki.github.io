@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Socionics CN Wiki'
+project = 'Socionics·社会人格学中文Wiki'
 copyright = '2023, Socionics CN Wiki Group'
 author = 'Socionics CN Wiki Group'
 release = '0.1'

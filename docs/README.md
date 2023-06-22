@@ -6,6 +6,8 @@
 类型描述：https://socionicscnwiki.github.io/#/types
 以IEE举例的类型分析研究：https://socionicscnwiki.github.io/#/IEE
 以LII举例的主导创造功能介绍：https://socionicscnwiki.github.io/#/LII
+以酗酒者心理治疗举例的实际应用：https://socionicscnwiki.github.io/#/alcoholism
+社会人格学类型病理学描述：https://socionicscnwiki.github.io/#/pathology
 社会人格学的实际应用：https://socionicscnwiki.github.io/#/application
 
 ## 社会人格学的建立发展

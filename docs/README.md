@@ -3,7 +3,7 @@
 社会人格学是一门基于瑞士心理学家**卡尔·荣格**的类型论的心理学分支，研究人们如何接收和处理信息，以及不同类型的人在社会中的相互作用。
 
 <a href="https://socionicscnwiki.github.io/#/Jung">社会人格学的荣格起源</a>  
-<a href="types">类型描述</a>  
+<a href="#/types">类型描述</a>  
 以IEE举例的类型分析研究：https://socionicscnwiki.github.io/#/IEE  
 以LII举例的主导创造功能介绍：https://socionicscnwiki.github.io/#/LII  
 以酗酒者心理治疗举例的实际应用：https://socionicscnwiki.github.io/#/alcoholism  

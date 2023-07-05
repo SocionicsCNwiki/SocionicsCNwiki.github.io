@@ -11,6 +11,7 @@
 <a href="#/alcoholism">以酗酒者心理治疗举例的实际应用</a>  
 <a href="#/pathology">社会人格学类型病理学描述</a>  
 <a href="#/application">社会人格学的实际应用</a>  
+<a href="#/sales">通过精心挑选员工来提高销售业绩</a>   
 ***
 # 社会人格学简介
 

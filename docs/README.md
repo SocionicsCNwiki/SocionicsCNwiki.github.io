@@ -2,15 +2,15 @@
 这里是社会人格学（Socionics）中文Wiki，目前正在建设中。  
 ## 内容目录  
 ### 理论
-<a href="https://socionicscnwiki.github.io/#/Jung">社会人格学的荣格起源</a>  
+<a href="#/Jung">社会人格学的荣格起源</a>  
 ### 类型
 <a href="#/types">16个信息代谢类型简述</a>  
-以IEE举例的类型分析研究：https://socionicscnwiki.github.io/#/IEE  
-以LII举例的主导创造功能介绍：https://socionicscnwiki.github.io/#/LII  
+<a href="#/IEE">以IEE举例的类型分析研究</a> 
+<a href="#/LII">以LII举例的主导创造功能介绍</a>   
 ### 应用
-以酗酒者心理治疗举例的实际应用：https://socionicscnwiki.github.io/#/alcoholism  
-社会人格学类型病理学描述：https://socionicscnwiki.github.io/#/pathology  
-社会人格学的实际应用：https://socionicscnwiki.github.io/#/application  
+<a href="#/alcoholism">以酗酒者心理治疗举例的实际应用</a>  
+<a href="#/pathology">社会人格学类型病理学描述</a>  
+<a href="#/application">社会人格学的实际应用</a>  
 ***
 # 社会人格学简介
 

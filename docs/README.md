@@ -1,14 +1,22 @@
+# 欢迎！
+这里是社会人格学（Socionics）中文Wiki，目前正在建设中。  
+## 目录  
+### 理论
+<a href="#/content/socion/socion">【Aushra原著】社会人格，社会人格学的基础</a>  
+<a href="#/Jung">社会人格学的荣格起源</a>  
+<a href="#/LII">以LII举例的主导创造功能介绍</a>  
+### 类型
+<a href="#/types">16个信息代谢类型简述</a>  
+<a href="#/IEE">以IEE举例的类型分析研究</a>  
+### 应用
+<a href="#/alcoholism">以酗酒者心理治疗举例的实际应用</a>  
+<a href="#/pathology">社会人格学类型病理学描述</a>  
+<a href="#/application">社会人格学的实际应用</a>  
+<a href="#/sales">通过精心挑选员工来提高销售业绩</a>   
+***
 # 社会人格学简介
 
 社会人格学是一门基于瑞士心理学家**卡尔·荣格**的类型论的心理学分支，研究人们如何接收和处理信息，以及不同类型的人在社会中的相互作用。
-
-社会人格学的荣格起源：https://socionicscnwiki.github.io/#/Jung
-类型描述：https://socionicscnwiki.github.io/#/types
-以IEE举例的类型分析研究：https://socionicscnwiki.github.io/#/IEE
-以LII举例的主导创造功能介绍：https://socionicscnwiki.github.io/#/LII
-以酗酒者心理治疗举例的实际应用：https://socionicscnwiki.github.io/#/alcoholism
-社会人格学类型病理学描述：https://socionicscnwiki.github.io/#/pathology
-社会人格学的实际应用：https://socionicscnwiki.github.io/#/application
 
 ## 社会人格学的建立发展
 
@@ -287,4 +295,5 @@ AI解释：
 第三四元组（SEE、ILI、LIE、ESI）
 第四四元组（IEE、SLI、LSE、EII）
 
-社会人格学的新人文主义在于，现在已经有理由断言：人与人之间的关系可以客观地不同（而不仅仅是在具体人的感知中）。不应该要求每一种关系都一样美好，毕竟不是一切都取决于人的意志。
+社会人格学的新人文主义在于，现在已经有理由断言：人与人之间的关系可以客观地不同（而不仅仅是在具体人的感知中）。不应该要求每一种关系都一样美好，毕竟不是一切都取决于人的意志。  
+

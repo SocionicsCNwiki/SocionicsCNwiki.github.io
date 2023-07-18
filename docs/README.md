@@ -2,6 +2,7 @@
 这里是社会人格学（Socionics）中文Wiki，目前正在建设中。  
 ## 内容目录  
 ### 理论
+<a href="#/content/socion/socion">【Aushra原著】社会人格，社会人格学的基础</a>  
 <a href="#/Jung">社会人格学的荣格起源</a>  
 <a href="#/LII">以LII举例的主导创造功能介绍</a>  
 ### 类型
